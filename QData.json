@@ -1,0 +1,970 @@
+{
+    "c2array": true,
+    "size": [
+        30,
+        10,
+        1
+    ],
+    "data": [
+        [
+            [
+                1
+            ],
+            [
+                "Accessibility"
+            ],
+            [
+                "Mobile Design"
+            ],
+            [
+                "You're designing training for employees who will primarily access it on their smartphones. Which approach resonates most with you?"
+            ],
+            [
+                "Focus on short, text-heavy lessons that can be quickly read, ensuring the core content is conveyed even on a small screen."
+            ],
+            [
+                1
+            ],
+            [
+                "Design visually engaging modules with concise text, interactive elements, and short videos optimized for mobile viewing."
+            ],
+            [
+                2
+            ],
+            [
+                "Prioritize compatibility across all devices, primarily using PDFs or slide decks that employees can download and access offline."
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                2
+            ],
+            [
+                "Accessibility"
+            ],
+            [
+                "508 Compliance"
+            ],
+            [
+                "Late in the development process, you're asked to add a complex interactive simulation to a course. You realize it has the potential to create accessibility barriers. What would you do?"
+            ],
+            [
+                "Add the simulation as planned, focusing on ensuring it meets minimum compliance standards."
+            ],
+            [
+                0
+            ],
+            [
+                "Research alternative solutions that provide a similar learning experience in an accessible format, balancing learner needs with project constraints."
+            ],
+            [
+                1
+            ],
+            [
+                "Propose significant revisions to the simulation's design to make it accessible, even if it extends the project timeline."
+            ],
+            [
+                2
+            ]
+        ],
+        [
+            [
+                3
+            ],
+            [
+                "Accessibility"
+            ],
+            [
+                "UDL"
+            ],
+            [
+                "When designing training, which approach aligns most with your philosophy?"
+            ],
+            [
+                "Design the learning experience with multiple options for how learners engage with the content, practice skills, and demonstrate understanding."
+            ],
+            [
+                2
+            ],
+            [
+                "Create a primary learning path suitable for most learners, then provide supplemental resources as needed for those who need additional support."
+            ],
+            [
+                0
+            ],
+            [
+                "Focus on making the training as clear and concise as possible, assuming that if the content is well-explained, most learners will be successful."
+            ],
+            [
+                1
+            ]
+        ],
+        [
+            [
+                4
+            ],
+            [
+                "Consulting"
+            ],
+            [
+                "Stakeholders"
+            ],
+            [
+                "A client expresses frustration with employee performance and believes training is the solution. However, they struggle to clearly articulate the specific skills or knowledge gaps that are causing underperformance. How would you approach this situation?"
+            ],
+            [
+                "Accept their diagnosis of the problem and begin outlining a training program based on their initial assumptions."
+            ],
+            [
+                0
+            ],
+            [
+                "Propose a needs analysis to gather data on the current situation, root causes of the issue, and what success would look like."
+            ],
+            [
+                2
+            ],
+            [
+                "Ask probing questions about the desired outcomes, ideal employee behaviors, and any existing training materials to get a clearer picture of the potential need."
+            ],
+            [
+                1
+            ]
+        ],
+        [
+            [
+                5
+            ],
+            [
+                "Consulting"
+            ],
+            [
+                "Training Needs Analyses"
+            ],
+            [
+                "A manager wants training to improve their team's time management skills. Before designing anything, you suggest they first:"
+            ],
+            [
+                "Create a survey asking employees to rate their own time management skills and identify areas where they feel they need help."
+            ],
+            [
+                0
+            ],
+            [
+                "Review existing time management resources and suggest a pre-built workshop that the manager could customize for their team."
+            ],
+            [
+                1
+            ],
+            [
+                "Conduct a combination of interviews, performance data review, and observations to understand the root causes of time management challenges."
+            ],
+            [
+                2
+            ]
+        ],
+        [
+            [
+                6
+            ],
+            [
+                "Consulting"
+            ],
+            [
+                "Observations"
+            ],
+            [
+                "You're tasked with developing a performance observation program for a call center.  Employees are struggling to follow quality guidelines consistently.  What's your first step?"
+            ],
+            [
+                "Start by observing employees during live calls to gather data on the most common areas where they aren't adhering to guidelines."
+            ],
+            [
+                1
+            ],
+            [
+                "Design a clear observation checklist based on the quality guidelines, focusing on the most critical behaviors that impact customer experience."
+            ],
+            [
+                2
+            ],
+            [
+                "Schedule a focus group with employees to get their insights on why they struggle to follow the quality guidelines and identify potential solutions."
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                7
+            ],
+            [
+                "Course Design"
+            ],
+            [
+                "Curriculum Mapping & Design"
+            ],
+            [
+                "When beginning a curriculum mapping project, your first step is to:"
+            ],
+            [
+                "Define the overarching learning goals and desired outcomes at each stage of the curriculum."
+            ],
+            [
+                2
+            ],
+            [
+                "Gather all existing learning materials and resources used within the program."
+            ],
+            [
+                1
+            ],
+            [
+                "Consult with subject matter experts to create a comprehensive outline of essential content to be covered."
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                8
+            ],
+            [
+                "Course Design"
+            ],
+            [
+                "Instructional Design Models"
+            ],
+            [
+                "You're leading a complex project to create a multi-module technical training program on a tight deadline.  Which approach aligns best with this situation?"
+            ],
+            [
+                "Follow the ADDIE model strictly, as its linear structure ensures all steps are completed thoroughly."
+            ],
+            [
+                0
+            ],
+            [
+                "Employ a modified ADDIE approach with iterative design, development, and testing cycles to accommodate feedback and revisions."
+            ],
+            [
+                2
+            ],
+            [
+                "Use a rapid prototyping model like SAM to quickly create functional versions of the modules and get stakeholder feedback early in the process."
+            ],
+            [
+                2
+            ]
+        ],
+        [
+            [
+                9
+            ],
+            [
+                "Course Design"
+            ],
+            [
+                "Assessment Design"
+            ],
+            [
+                "You're designing a leadership development program. A key learning objective is for participants to demonstrate effective conflict resolution skills. Which assessment method would be most appropriate?"
+            ],
+            [
+                "A role-playing scenario where participants must apply conflict resolution techniques in a challenging workplace situation."
+            ],
+            [
+                2
+            ],
+            [
+                "A self-assessment where participants reflect on their own strengths and weaknesses in conflict management."
+            ],
+            [
+                1
+            ],
+            [
+                "A multiple-choice quiz on conflict resolution theories and best practices."
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                10
+            ],
+            [
+                "Course Development"
+            ],
+            [
+                "Course Authoring Tools"
+            ],
+            [
+                "When choosing a course authoring tool, which feature is most important to you?"
+            ],
+            [
+                "User-friendly interface and intuitive drag-and-drop functionality for ease of use."
+            ],
+            [
+                1
+            ],
+            [
+                "Advanced capabilities for interactivity, branching scenarios, and simulations for complex skill development."
+            ],
+            [
+                2
+            ],
+            [
+                "Seamless integration with existing Learning Management Systems (LMS) for easy deployment and tracking."
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                11
+            ],
+            [
+                "Course Development"
+            ],
+            [
+                "Game-based Learning and Gamification"
+            ],
+            [
+                "Which statement best aligns with your philosophy on incorporating game elements into training?"
+            ],
+            [
+                "Gamification can be a fun way to add variety and energy to any training topic."
+            ],
+            [
+                0
+            ],
+            [
+                "My primary goal with gamification is to make learning more enjoyable to increase completion rates."
+            ],
+            [
+                1
+            ],
+            [
+                "When designed well, gamification can drive specific behavioral changes, reinforce learning, and promote healthy competition."
+            ],
+            [
+                2
+            ]
+        ],
+        [
+            [
+                12
+            ],
+            [
+                "Course Development"
+            ],
+            [
+                "Multimedia Production (Video / Animation)"
+            ],
+            [
+                "You're designing training on a new software feature. The feature is visually complex, with multiple steps. Which approach would you likely take?"
+            ],
+            [
+                "Develop a narrated screencast walkthrough of the feature, providing audio explanations alongside the visuals."
+            ],
+            [
+                2
+            ],
+            [
+                "Design a short animated video demonstrating the feature's functionality and allowing learners to follow along at their own pace."
+            ],
+            [
+                2
+            ],
+            [
+                "Create a step-by-step text-based guide with screenshots, as this is the most efficient to develop."
+            ],
+            [
+                1
+            ]
+        ],
+        [
+            [
+                13
+            ],
+            [
+                "Engagement"
+            ],
+            [
+                "Instructional Storytelling"
+            ],
+            [
+                "Which of these statements resonates most with your belief about instructional storytelling?"
+            ],
+            [
+                "Storytelling can be a fun addition to training, but it's most effective when used sparingly."
+            ],
+            [
+                0
+            ],
+            [
+                "Stories have the power to make complex concepts relatable, create emotional connections, and deepen understanding."
+            ],
+            [
+                2
+            ],
+            [
+                "My primary goal with storytelling is to make the learning experience more engaging and memorable for participants."
+            ],
+            [
+                1
+            ]
+        ],
+        [
+            [
+                14
+            ],
+            [
+                "Engagement"
+            ],
+            [
+                "Learner Engagement"
+            ],
+            [
+                "When designing training, which element do you primarily focus on to foster learner engagement?"
+            ],
+            [
+                "Incorporating visually appealing graphics, animations, and multimedia elements to enhance the aesthetic of the materials."
+            ],
+            [
+                1
+            ],
+            [
+                "Creating opportunities for interaction, collaboration, and hands-on practice, allowing learners to actively participate."
+            ],
+            [
+                2
+            ],
+            [
+                "Designing a rewards system with points, badges, or other incentives to motivate completion of the training."
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                15
+            ],
+            [
+                "Engagement"
+            ],
+            [
+                "Learning Science"
+            ],
+            [
+                "You're designing training on complex problem-solving procedures. To improve long-term retention, you decide to:"
+            ],
+            [
+                "Incorporate frequent opportunities for practice, retrieval activities, and spaced repetition throughout the training."
+            ],
+            [
+                2
+            ],
+            [
+                "Break the information into smaller, easily digestible modules, delivered over a longer period."
+            ],
+            [
+                0
+            ],
+            [
+                "Provide multiple practice problems immediately after presenting the procedures, followed by the correct solutions."
+            ],
+            [
+                1
+            ]
+        ],
+        [
+            [
+                16
+            ],
+            [
+                "Evaluation"
+            ],
+            [
+                "Learning Analytics"
+            ],
+            [
+                "You've implemented a new eLearning course on project management. After launch, you notice low completion rates. How would you use learning analytics to investigate the issue?"
+            ],
+            [
+                "Analyze overall enrollment numbers and compare them to similar courses to identify common trends."
+            ],
+            [
+                0
+            ],
+            [
+                "Analyze detailed usage data to pinpoint where learners are dropping off within the course and identify potential content or design issues."
+            ],
+            [
+                2
+            ],
+            [
+                "Review overall time-on-task to see if learners are spending significantly less time on this course compared to others."
+            ],
+            [
+                1
+            ]
+        ],
+        [
+            [
+                17
+            ],
+            [
+                "Evaluation"
+            ],
+            [
+                "Quality Assurance Frameworks"
+            ],
+            [
+                "When evaluating the quality of an online course, which aspect do you focus on first?"
+            ],
+            [
+                "Alignment of learning activities and assessments with clearly defined course objectives."
+            ],
+            [
+                2
+            ],
+            [
+                "The overall visual design, ensuring the materials are aesthetically pleasing and easy to navigate."
+            ],
+            [
+                1
+            ],
+            [
+                "Technical functionality, checking that all links, videos, and interactive elements work as intended."
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                18
+            ],
+            [
+                "Evaluation"
+            ],
+            [
+                "Survey Design & Data Collection"
+            ],
+            [
+                "You need to gather feedback to improve a leadership training program.  Which approach would you likely take?"
+            ],
+            [
+                "Create a short, open-ended survey asking participants what they liked and disliked about the training."
+            ],
+            [
+                0
+            ],
+            [
+                "Design a survey with a mix of quantitative (rating scales) and qualitative (open-ended) questions to gather specific, actionable feedback."
+            ],
+            [
+                2
+            ],
+            [
+                "Conduct focus groups with past participants to allow for more in-depth discussion about their experiences."
+            ],
+            [
+                1
+            ]
+        ],
+        [
+            [
+                19
+            ],
+            [
+                "Facilitation"
+            ],
+            [
+                "Presentation Design"
+            ],
+            [
+                "Which of these statements most closely aligns with your presentation design philosophy?"
+            ],
+            [
+                "I focus on ensuring the slides are clear, concise, and reinforce the core message without overwhelming the audience."
+            ],
+            [
+                2
+            ],
+            [
+                "My primary goal is to create visually stunning slides with animations and multimedia to impress the audience."
+            ],
+            [
+                0
+            ],
+            [
+                "I prioritize the use of visuals, charts, and graphs to effectively explain complex information."
+            ],
+            [
+                1
+            ]
+        ],
+        [
+            [
+                20
+            ],
+            [
+                "Facilitation"
+            ],
+            [
+                "Presentation Facilitation (in-person)"
+            ],
+            [
+                "While delivering a presentation, you notice multiple audience members looking confused.  How would you respond?"
+            ],
+            [
+                "Pause briefly, recap the last few points, and explicitly ask if there are any questions before proceeding."
+            ],
+            [
+                1
+            ],
+            [
+                "Continue as planned, assuming they'll catch up or ask questions at the end."
+            ],
+            [
+                0
+            ],
+            [
+                "Stop and ask audience members to turn to a partner and answer a specific question about your point and share out as a group."
+            ],
+            [
+                2
+            ]
+        ],
+        [
+            [
+                21
+            ],
+            [
+                "Facilitation"
+            ],
+            [
+                "Presentation Facilitation (online asynchronous)"
+            ],
+            [
+                "You're facilitating an asynchronous online training course. You notice discussion board activity is sparse, with only a few students actively participating. What action would you take to increase engagement in future discussion boards?"
+            ],
+            [
+                "Grade discussion board contributions more strictly on whether students met the minimum post requirement."
+            ],
+            [
+                0
+            ],
+            [
+                "Redesign discussion prompts to be more open-ended, provide opportunities for choice, and encourage connections to personal experiences."
+            ],
+            [
+                2
+            ],
+            [
+                "Send individual emails to students who aren't participating, reminding them of the discussion board requirements."
+            ],
+            [
+                1
+            ]
+        ],
+        [
+            [
+                22
+            ],
+            [
+                "LMS Management"
+            ],
+            [
+                "Content Management"
+            ],
+            [
+                "When managing a large repository of training content, which of these do you prioritize first?"
+            ],
+            [
+                "Ensuring all files are consistently named, tagged, and stored using a clearly defined organizational structure."
+            ],
+            [
+                1
+            ],
+            [
+                "Establishing a regular review process to identify outdated or irrelevant content that needs to be updated or archived."
+            ],
+            [
+                2
+            ],
+            [
+                "Implementing a user-friendly search interface so learners can easily find the specific content they need."
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                23
+            ],
+            [
+                "LMS Management"
+            ],
+            [
+                "Learning Management System Administration"
+            ],
+            [
+                "Your organization has just adopted a new LMS. You've been tasked with migrating existing training content. What's your first step?"
+            ],
+            [
+                "Analyze the existing content to determine file formats, size, and the need for potential updates or revisions."
+            ],
+            [
+                2
+            ],
+            [
+                "Contact the LMS vendor for detailed technical specifications and support documentation before beginning any migration."
+            ],
+            [
+                1
+            ],
+            [
+                "Start uploading all the content immediately, figuring out the organizational structure and metadata as you go."
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                24
+            ],
+            [
+                "LMS Management"
+            ],
+            [
+                "Technology Adoption"
+            ],
+            [
+                "Your organization wants to enhance your LMS with cutting-edge features to improve learner outcomes.  How do you approach evaluating potential solutions?"
+            ],
+            [
+                "Focus primarily on tools with the most visually appealing interfaces and the largest number of features."
+            ],
+            [
+                0
+            ],
+            [
+                "Immediately schedule demos with multiple vendors to compare pricing models and get a hands-on look at the tools."
+            ],
+            [
+                1
+            ],
+            [
+                "Start by clearly defining the specific learning needs and pain points the technology needs to address."
+            ],
+            [
+                2
+            ]
+        ],
+        [
+            [
+                25
+            ],
+            [
+                "Project Management"
+            ],
+            [
+                "SME Collaboration"
+            ],
+            [
+                "A key SME insists on including highly technical details in a training for beginners.  You believe it will overwhelm learners. How would you approach this?"
+            ],
+            [
+                "Include all the content as the SME requested to avoid conflict and ensure technical accuracy, even if it makes the training less approachable."
+            ],
+            [
+                0
+            ],
+            [
+                "Find a way to include the technical details as optional supplemental resources for those who are interested."
+            ],
+            [
+                1
+            ],
+            [
+                "Explain your concerns about learner comprehension and work with the SME to reframe the content in a way that beginners can understand."
+            ],
+            [
+                2
+            ]
+        ],
+        [
+            [
+                26
+            ],
+            [
+                "Project Management"
+            ],
+            [
+                "Stakeholder Management"
+            ],
+            [
+                "Halfway through a training development project, a key stakeholder changes their mind about a core feature they previously approved. How would you handle this situation?"
+            ],
+            [
+                "Assess the impact of the changes, present the implications to the stakeholder, and collaborate on alternative solutions that meet their needs while minimizing disruption."
+            ],
+            [
+                2
+            ],
+            [
+                "Implement the changes without question to maintain a good relationship, even if it disrupts the timeline and budget."
+            ],
+            [
+                0
+            ],
+            [
+                "Explain that changes at this stage are not feasible and try to convince the stakeholder to stick to their original decision."
+            ],
+            [
+                1
+            ]
+        ],
+        [
+            [
+                27
+            ],
+            [
+                "Project Management"
+            ],
+            [
+                "Team & Project Management"
+            ],
+            [
+                "A crucial team member working on your training development project is consistently missing deadlines, impacting the overall timeline. How would you address this?"
+            ],
+            [
+                "Publicly call out the team member in a group meeting to pressure them into performing better."
+            ],
+            [
+                1
+            ],
+            [
+                "Assign their tasks to other team members without informing them, hoping they won't notice the extra workload."
+            ],
+            [
+                0
+            ],
+            [
+                "Have a private meeting with the team member to discuss the missed deadlines, identify the root cause of the delays, and collaborate on solutions."
+            ],
+            [
+                2
+            ]
+        ],
+        [
+            [
+                28
+            ],
+            [
+                "Technology"
+            ],
+            [
+                "Adaptive Learning"
+            ],
+            [
+                "You're designing a technical training program where learners come in with vastly different skill levels. How might you incorporate adaptive learning?"
+            ],
+            [
+                "Implement an adaptive platform that assesses learners' prior knowledge and customizes learning pathways based on their needs and progress."
+            ],
+            [
+                2
+            ],
+            [
+                "Design a linear training path with optional supplementary resources for those who need additional support or enrichment."
+            ],
+            [
+                0
+            ],
+            [
+                "Divide learners into groups based on an initial pre-assessment and create tailored lesson plans for each group."
+            ],
+            [
+                1
+            ]
+        ],
+        [
+            [
+                29
+            ],
+            [
+                "Technology"
+            ],
+            [
+                "Artificial Intelligence and Machine Learning"
+            ],
+            [
+                "Which statement most closely aligns with your view on integrating Artificial Intelligence (AI) and Machine Learning (ML) into training?"
+            ],
+            [
+                "AI and ML have the potential to enhance personalization, provide data-driven insights, and augment the role of the instructor, but shouldn't be seen as a substitute for human involvement."
+            ],
+            [
+                2
+            ],
+            [
+                "I'm excited about the possibilities of AI in training but am concerned about the potential for bias in algorithms and data sets."
+            ],
+            [
+                1
+            ],
+            [
+                "AI-powered tools can automate many instructional tasks, potentially replacing the need for human instructors altogether."
+            ],
+            [
+                0
+            ]
+        ],
+        [
+            [
+                30
+            ],
+            [
+                "Technology"
+            ],
+            [
+                "Virtual Reality (VR) / Augmented Reality (AR)"
+            ],
+            [
+                "A client wants to create training for technicians who service complex machinery on-site. They're interested in incorporating VR or AR.  Which approach would you suggest and why?"
+            ],
+            [
+                "Suggest exploring both VR (for initial training) and AR (for on-the-job performance support)."
+            ],
+            [
+                1
+            ],
+            [
+                "Design a VR environment simulating the machinery, as it eliminates safety risks of training on the real equipment."
+            ],
+            [
+                0
+            ],
+            [
+                "Recommend an AR solution that overlays instructions and repair diagrams directly onto the machinery while the technician works."
+            ],
+            [
+                2
+            ]
+        ]
+    ]
+}
